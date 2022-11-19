@@ -1,7 +1,7 @@
 # gbilling2slack
 Slack notifications tools for Google Cloud Platform Billing. 
 
-<img src="https://img.shields.io/badge/go-v1.12-green.svg" />
+<img alt="go-v1.19-green" src="https://img.shields.io/badge/go-v1.19-green.svg" />
 
 ## Overview
 
